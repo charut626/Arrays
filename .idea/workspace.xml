@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="4.Cyclically rotate an array by one.">
+    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="5.Minimize the maximum difference between heights.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704993617330</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="5.Minimize the maximum difference between heights.">
+      <created>1704996298984</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704996298984</updated>
+    </task>
+    <task id="LOCAL-00010" summary="5.Minimize the maximum difference between heights.">
+      <created>1704996372189</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704996372189</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +132,7 @@
     <MESSAGE value="2.Max &amp; min in array." />
     <MESSAGE value="3.Kth max &amp; min element of an array." />
     <MESSAGE value="4.Cyclically rotate an array by one." />
-    <option name="LAST_COMMIT_MESSAGE" value="4.Cyclically rotate an array by one." />
+    <MESSAGE value="5.Minimize the maximum difference between heights." />
+    <option name="LAST_COMMIT_MESSAGE" value="5.Minimize the maximum difference between heights." />
   </component>
 </project>
