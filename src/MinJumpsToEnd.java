@@ -32,4 +32,4 @@ public class MinJumpsToEnd {
         System.out.println(minJumpsToEnd(arr));
     }
 }
-//Time Complexity of the above program is: O(n)
+//  Time Complexity of the above program is: O(n)
