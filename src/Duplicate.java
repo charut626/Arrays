@@ -14,4 +14,4 @@ public class Duplicate {
         System.out.println(duplicate(arr));
     }
 }
-//
+//  Time Complexity of above program is: O(n)

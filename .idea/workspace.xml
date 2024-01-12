@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="6.Minimum number of jumps to reach end of an array." />
+    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="6.Minimum number of jumps to reach end of an array.">
+      <change beforePath="$PROJECT_DIR$/src/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duplicate.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705071408066</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="6.Minimum number of jumps to reach end of an array.">
+      <created>1705073147531</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1705073147531</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
