@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="7.Duplicate in an array of n+1 integers.">
+    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="8.Largest sum contiguous array.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705073259395</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="8.Largest sum contiguous array.">
+      <created>1705076652019</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1705076652019</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +170,7 @@
     <MESSAGE value="5.Minimize the maximum difference between heights." />
     <MESSAGE value="6.Minimum number of jumps to reach end of an array." />
     <MESSAGE value="7.Duplicate in an array of n+1 integers." />
-    <option name="LAST_COMMIT_MESSAGE" value="7.Duplicate in an array of n+1 integers." />
+    <MESSAGE value="8.Largest sum contiguous array." />
+    <option name="LAST_COMMIT_MESSAGE" value="8.Largest sum contiguous array." />
   </component>
 </project>
