@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="6.Minimum number of jumps to reach end of an array.">
-      <change beforePath="$PROJECT_DIR$/src/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duplicate.java" afterDir="false" />
+    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="7.Duplicate in an array of n+1 integers.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705073147531</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="7.Duplicate in an array of n+1 integers.">
+      <created>1705073246077</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1705073246077</updated>
+    </task>
+    <task id="LOCAL-00014" summary="7.Duplicate in an array of n+1 integers.">
+      <created>1705073259394</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705073259395</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +162,7 @@
     <MESSAGE value="4.Cyclically rotate an array by one." />
     <MESSAGE value="5.Minimize the maximum difference between heights." />
     <MESSAGE value="6.Minimum number of jumps to reach end of an array." />
-    <option name="LAST_COMMIT_MESSAGE" value="6.Minimum number of jumps to reach end of an array." />
+    <MESSAGE value="7.Duplicate in an array of n+1 integers." />
+    <option name="LAST_COMMIT_MESSAGE" value="7.Duplicate in an array of n+1 integers." />
   </component>
 </project>
