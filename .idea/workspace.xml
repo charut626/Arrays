@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="9.Merge Intervals">
+    <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="10.Next Permutation.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NextPermutation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705085584617</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="10.Next Permutation.">
+      <created>1705152689516</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705152689516</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +187,7 @@
     <MESSAGE value="7.Duplicate in an array of n+1 integers." />
     <MESSAGE value="8.Largest sum contiguous array." />
     <MESSAGE value="9.Merge Intervals" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.Merge Intervals" />
+    <MESSAGE value="10.Next Permutation." />
+    <option name="LAST_COMMIT_MESSAGE" value="10.Next Permutation." />
   </component>
 </project>
