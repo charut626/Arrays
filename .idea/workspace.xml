@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4de38a4b-f999-4e09-bbcb-50865ed3054d" name="Changes" comment="10.Next Permutation.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NextPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuySellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuySellStock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705152689516</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="10.Next Permutation.">
+      <created>1705153314033</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705153314033</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
